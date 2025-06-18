@@ -2,11 +2,9 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Dr. Ho Ping Lit
 N:Ho;Ping Lit;;Dr.;
-TITLE:General Dentist
-ORG:St. Andrew's Dental Practice
-TEL;TYPE=WORK,VOICE:01767 313182
-EMAIL;TYPE=INTERNET:standrewsdentalpractice@gmail.com
-ADR;TYPE=WORK:;;17A High Street;Biggleswade;Bedfordshire;SG18 0JE;United Kingdom
-URL:http://standrewsdentalpractice.co.uk
-NOTE:Trained at the University of Hong Kong. Fluent in English, Cantonese, and Mandarin. GDC number: 287249
+TITLE:何炳烈牙科醫生
+ORG:恩霖牙科
+TEL;TYPE=WORK,VOICE:28588896
+ADR;TYPE=WORK:;;G/F;233 Queen's Road West;Sai Ying Pun
+ADR;TYPE=WORK:;;西營盤皇后大道西233號地下
 END:VCARD
